@@ -1,3 +1,4 @@
+#Archivos de MAC para ignorar
 .DS_store
 img_cache
 *.txt
